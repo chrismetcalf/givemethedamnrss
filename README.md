@@ -2,7 +2,7 @@
 
 I was switching my feed reader over to [Fever](http://www.feedafever.com/), and I really wanted to include a bunch of my updates from Twitter as "sparks", but I discovered that *TWITTER DECIDED TO SHUT DOWN ALL THEIR RSS FEEDS*.
 
-So this is a stupid little Herkou app that generates feeds for searches and such that you can suck into your feed reader or whatever.
+So this is a stupid little Heroku app that generates feeds for searches and such that you can suck into your feed reader or whatever.
 
 # Configuration
 
